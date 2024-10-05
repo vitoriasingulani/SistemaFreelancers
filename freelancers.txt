@@ -1,3 +1,4 @@
 Lista de Freelancers
 -freelancers A
 - Freelancers B
+-freelancer C
